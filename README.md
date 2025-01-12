@@ -1,5 +1,3 @@
-# Fresh-grocery-store
-online store
 <!DOCTYPE html>
 <html lang="en">
 
